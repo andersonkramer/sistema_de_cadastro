@@ -5,5 +5,5 @@
 para rodar esse projeto em sua máquina, favor digitar
 
 ```
-npm install python3
+node app.js
 ```
